@@ -1,0 +1,9 @@
+Amel:
+  name        : "nobody"
+  bio         : "bio"
+  avatar      : "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:billyrick@rick.com"
+			

@@ -1,0 +1,8 @@
+main:
+  - title: "Entreprise"
+    url: /entreprise/
+  - title: "Parents Enfants"
+    url: /ateliers-parents-enfants/
+  - title: "Agenda & Inscription"
+    url: /agenda-et-inscription/
+
